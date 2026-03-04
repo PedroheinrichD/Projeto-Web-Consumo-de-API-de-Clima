@@ -1,7 +1,7 @@
 // API https://api.openweathermap.org/data/2.5/weather?q=Sao%20Paulo&appid=SUA_CHAVE_AQUI&units=metric&lang=pt
 // 404 error
 // 200 correct
-
+const API_KEY = "c723e2faa02cbb4980a1dac865f49cd0";
 document.querySelector('.busca').addEventListener('click', async(event) => {
     event.preventDefault()
 
