@@ -41,7 +41,7 @@ function showInfo(json){
     
     document.querySelector('.ventoInfo').innerHTML = `${json.windspeed} <span>km/h</span>`
     document.querySelector('.ventoPonto').style.transform = `rotate(${json.windAngle-180}deg)`
-    document.querySelector('.temp img').setAttribute('src', `http://openweathermap.org/img/wn/${json.tempIcon}.png`)
+    document.querySelector('.temp img').setAttribute('src', `https://openweathermap.org/img/wn/${json.tempIcon}.png`)
 
 
 
