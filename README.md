@@ -20,7 +20,7 @@ Aplicação web desenvolvida com **HTML, CSS e JavaScript** que consome uma API 
 
 ## 🎥 Demonstração
 
-<img width="978" height="691" alt="Image" src="COLE_AQUI_O_LINK_DA_IMAGEM_OU_GIF" />
+<img width="806" height="610" alt="Image" src="https://github.com/user-attachments/assets/b373a478-474c-409e-abd3-1e77582d481d" />
 
 ## 🔗 Acesse o projeto
 
